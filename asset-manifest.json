@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/bakhitas_project/static/js/main.6f8ff264.chunk.js",
+    "main.js.map": "/bakhitas_project/static/js/main.6f8ff264.chunk.js.map",
+    "runtime-main.js": "/bakhitas_project/static/js/runtime-main.6a5c2673.js",
+    "runtime-main.js.map": "/bakhitas_project/static/js/runtime-main.6a5c2673.js.map",
+    "static/css/2.631cbb15.chunk.css": "/bakhitas_project/static/css/2.631cbb15.chunk.css",
+    "static/js/2.fca9b830.chunk.js": "/bakhitas_project/static/js/2.fca9b830.chunk.js",
+    "static/js/2.fca9b830.chunk.js.map": "/bakhitas_project/static/js/2.fca9b830.chunk.js.map",
+    "static/js/3.5dca636e.chunk.js": "/bakhitas_project/static/js/3.5dca636e.chunk.js",
+    "static/js/3.5dca636e.chunk.js.map": "/bakhitas_project/static/js/3.5dca636e.chunk.js.map",
+    "index.html": "/bakhitas_project/index.html",
+    "static/css/2.631cbb15.chunk.css.map": "/bakhitas_project/static/css/2.631cbb15.chunk.css.map",
+    "static/js/2.fca9b830.chunk.js.LICENSE.txt": "/bakhitas_project/static/js/2.fca9b830.chunk.js.LICENSE.txt",
+    "static/media/banner.d5641dcd.png": "/bakhitas_project/static/media/banner.d5641dcd.png",
+    "static/media/bannerAgende.74087cca.png": "/bakhitas_project/static/media/bannerAgende.74087cca.png",
+    "static/media/bannerFour.8672ba71.png": "/bakhitas_project/static/media/bannerFour.8672ba71.png",
+    "static/media/bannerMatriculas.e4520172.png": "/bakhitas_project/static/media/bannerMatriculas.e4520172.png",
+    "static/media/bannerTree.af830450.png": "/bakhitas_project/static/media/bannerTree.af830450.png",
+    "static/media/bannerTwo.bfeae6ea.png": "/bakhitas_project/static/media/bannerTwo.bfeae6ea.png",
+    "static/media/calendario.c3e83330.png": "/bakhitas_project/static/media/calendario.c3e83330.png",
+    "static/media/cronicas.820ca7da.png": "/bakhitas_project/static/media/cronicas.820ca7da.png",
+    "static/media/doacao.623687ae.jpg": "/bakhitas_project/static/media/doacao.623687ae.jpg",
+    "static/media/representation.ea17cf7b.png": "/bakhitas_project/static/media/representation.ea17cf7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a5c2673.js",
+    "static/css/2.631cbb15.chunk.css",
+    "static/js/2.fca9b830.chunk.js",
+    "static/js/main.6f8ff264.chunk.js"
+  ]
+}
