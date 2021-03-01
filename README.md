@@ -1,46 +1,35 @@
-# Getting Started with Create React App
+# Projeto Bakhitas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Seja muito bem vindo a este projeto.
 
-## Available Scripts
+A finalidade dele foi voltada ao redesenho de layout e estruturação do site da oranização não governamental IPN ( Instituto Pretos Novos ).
+site original: https://pretosnovos.com.br/
 
-In the project directory, you can run:
+## Objetivo
 
-### `yarn start`
+Durante os mais de 300 anos de escravidão no Brasil, pessoas negras eram trazidas a força da Africa para serem vendidos como mercadoria, os que não resistiam a travessia infelizmente ou eram jogados em alto mar ou assim que os navios negreiros aportavam aqui no Brasil eram jogados em valas com centenas de outros corpos como se fossem apenas lixo.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Mais do que um redesenho de layout, o objetivo foi elaborar um visual que tivesse como premissa a celebração da vida dessas pessoas antes delas terem a sua vida ceifada pelo trafego negreiro.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Execução
 
-### `yarn test`
+O projeto pode ser executado se executando o comando <yarn> dentro da pasta do projeto assim que baixado no seu computador.
+Com a pasta node_modules devidamente alocada, execute o comando: <yarn start>, para que a execução do mesmo possa acontecer.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Fontes
 
-### `yarn build`
+O recurso de carrosel animado foi introduzido por meio da biblioteca: react-responsive-carousel, link: https://www.npmjs.com/package/react-responsive-carousel
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+As imagens foram buscadas através do recurso Google Images
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+A fonte utilizada Roboto foi disponibilizada pelo Google Fonts: https://fonts.google.com/specimen/Roboto?preview.text_type=custom
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Agradecimentos
 
-### `yarn eject`
+Primeiramente gostaria de agradecer imensamente a RocketSeat, pois sem a orientação dos professores e toda a equipe quanto a desenvolvimento de projetos em front-End esse projeto não seria possível.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Ao IPN ( Instituto Pretos Novos ) por não deixar que a história de pessoas que foram cruelmente assinadadas em nome do trafego negreiro não seja esquecida.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+"Devemos aprender com o passado, para que erros não possam ser cometidos no futuro"
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Jair Aparecido de Oliveira 2021
