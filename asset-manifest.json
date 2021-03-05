@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/bakhitas_project/static/js/main.16388a9b.chunk.js",
-    "main.js.map": "/bakhitas_project/static/js/main.16388a9b.chunk.js.map",
+    "main.js": "/bakhitas_project/static/js/main.416703a1.chunk.js",
+    "main.js.map": "/bakhitas_project/static/js/main.416703a1.chunk.js.map",
     "runtime-main.js": "/bakhitas_project/static/js/runtime-main.b143f6cf.js",
     "runtime-main.js.map": "/bakhitas_project/static/js/runtime-main.b143f6cf.js.map",
     "static/css/2.631cbb15.chunk.css": "/bakhitas_project/static/css/2.631cbb15.chunk.css",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.b143f6cf.js",
     "static/css/2.631cbb15.chunk.css",
     "static/js/2.5915bc41.chunk.js",
-    "static/js/main.16388a9b.chunk.js"
+    "static/js/main.416703a1.chunk.js"
   ]
 }
