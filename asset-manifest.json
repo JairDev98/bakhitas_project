@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/bakhitas_project/static/js/main.416703a1.chunk.js",
-    "main.js.map": "/bakhitas_project/static/js/main.416703a1.chunk.js.map",
-    "runtime-main.js": "/bakhitas_project/static/js/runtime-main.b143f6cf.js",
-    "runtime-main.js.map": "/bakhitas_project/static/js/runtime-main.b143f6cf.js.map",
-    "static/css/2.631cbb15.chunk.css": "/bakhitas_project/static/css/2.631cbb15.chunk.css",
-    "static/js/2.5915bc41.chunk.js": "/bakhitas_project/static/js/2.5915bc41.chunk.js",
-    "static/js/2.5915bc41.chunk.js.map": "/bakhitas_project/static/js/2.5915bc41.chunk.js.map",
-    "static/js/3.86b0dcf3.chunk.js": "/bakhitas_project/static/js/3.86b0dcf3.chunk.js",
-    "static/js/3.86b0dcf3.chunk.js.map": "/bakhitas_project/static/js/3.86b0dcf3.chunk.js.map",
+    "main.js": "/bakhitas_project/static/js/main.de6f3588.chunk.js",
+    "main.js.map": "/bakhitas_project/static/js/main.de6f3588.chunk.js.map",
+    "runtime-main.js": "/bakhitas_project/static/js/runtime-main.9e34c143.js",
+    "runtime-main.js.map": "/bakhitas_project/static/js/runtime-main.9e34c143.js.map",
+    "static/css/2.29046bf7.chunk.css": "/bakhitas_project/static/css/2.29046bf7.chunk.css",
+    "static/js/2.09cee61d.chunk.js": "/bakhitas_project/static/js/2.09cee61d.chunk.js",
+    "static/js/2.09cee61d.chunk.js.map": "/bakhitas_project/static/js/2.09cee61d.chunk.js.map",
+    "static/js/3.61658865.chunk.js": "/bakhitas_project/static/js/3.61658865.chunk.js",
+    "static/js/3.61658865.chunk.js.map": "/bakhitas_project/static/js/3.61658865.chunk.js.map",
     "index.html": "/bakhitas_project/index.html",
-    "static/css/2.631cbb15.chunk.css.map": "/bakhitas_project/static/css/2.631cbb15.chunk.css.map",
-    "static/js/2.5915bc41.chunk.js.LICENSE.txt": "/bakhitas_project/static/js/2.5915bc41.chunk.js.LICENSE.txt",
+    "static/css/2.29046bf7.chunk.css.map": "/bakhitas_project/static/css/2.29046bf7.chunk.css.map",
+    "static/js/2.09cee61d.chunk.js.LICENSE.txt": "/bakhitas_project/static/js/2.09cee61d.chunk.js.LICENSE.txt",
     "static/media/banner.ef67955f.png": "/bakhitas_project/static/media/banner.ef67955f.png",
     "static/media/bannerAgende.c2ac7730.png": "/bakhitas_project/static/media/bannerAgende.c2ac7730.png",
     "static/media/bannerFour.fdc6e13e.png": "/bakhitas_project/static/media/bannerFour.fdc6e13e.png",
@@ -26,12 +26,13 @@
     "static/media/placa.1380e8ff.png": "/bakhitas_project/static/media/placa.1380e8ff.png",
     "static/media/representation.bb08bd18.png": "/bakhitas_project/static/media/representation.bb08bd18.png",
     "static/media/sagaBook.e4239b43.png": "/bakhitas_project/static/media/sagaBook.e4239b43.png",
+    "static/media/slick-theme.css": "/bakhitas_project/static/media/slick.c94f7671.ttf",
     "static/media/tribal.6b9c0160.png": "/bakhitas_project/static/media/tribal.6b9c0160.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b143f6cf.js",
-    "static/css/2.631cbb15.chunk.css",
-    "static/js/2.5915bc41.chunk.js",
-    "static/js/main.416703a1.chunk.js"
+    "static/js/runtime-main.9e34c143.js",
+    "static/css/2.29046bf7.chunk.css",
+    "static/js/2.09cee61d.chunk.js",
+    "static/js/main.de6f3588.chunk.js"
   ]
 }
