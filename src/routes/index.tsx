@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, Switch, BrowserRouter } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
 
 import DashBoard from '../pages/DashBoard';
 import About from '../pages/About';
@@ -8,7 +8,7 @@ import Memorial from '../pages/Memorial';
 import Construction from '../pages/Construction';
 
 const Routes: React.FC = () => (
-  <BrowserRouter>
+  <>
     <Switch>
       <Route path="/" exact component={DashBoard} />
       <Route path="/about" exact component={About} />
@@ -16,7 +16,7 @@ const Routes: React.FC = () => (
       <Route path="/memorial" exact component={Memorial} />
       <Route path="/construction" exact component={Construction} />
     </Switch>
-  </BrowserRouter>
+  </>
 );
 
 export default Routes;
