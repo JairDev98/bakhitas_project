@@ -8,7 +8,7 @@ import Memorial from '../pages/Memorial';
 import Construction from '../pages/Construction';
 
 const Routes: React.FC = () => (
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <BrowserRouter>
     <Switch>
       <Route path="/" exact component={DashBoard} />
       <Route path="/about" exact component={About} />
