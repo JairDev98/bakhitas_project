@@ -1,6 +1,8 @@
 # Projeto Bakhitas
 Seja muito bem vindo a este projeto.
 
+Acesso: https://bakhitas-project.vercel.app/
+
 A finalidade dele foi voltada ao redesenho de layout e estruturação do site da oranização não governamental IPN ( Instituto Pretos Novos ). site original: https://pretosnovos.com.br/
 
 ## Objetivo
