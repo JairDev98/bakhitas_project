@@ -19,8 +19,7 @@ export const GeralContainer = styled.div`
   align-items: center;
 
   @media (max-width: 500px) {
-    height: 100%;
-    justify-content: left;
+    height: 50%;
   }
 `;
 

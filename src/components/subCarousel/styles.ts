@@ -18,6 +18,10 @@ export const Card = styled.div`
     padding: 5px;
   }
 
+  @media (max-width: 400px) {
+    display: none;
+  }
+
   img {
     width: 25%;
     height: 10%;

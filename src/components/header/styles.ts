@@ -26,7 +26,8 @@ export const Container = styled.header`
         margin: auto;
         margin-bottom: 3%;
       }
-      @media (max-width: 500px) {
+
+      @media (max-width: 400px) {
         margin-top: -15px;
       }
     }

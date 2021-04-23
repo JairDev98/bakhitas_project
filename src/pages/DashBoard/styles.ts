@@ -17,7 +17,7 @@ export const Container = styled.div`
   flex-direction: column;
 
   @media (max-width: 500px) {
-    margin: auto;
+    margin: 0;
     border-radius: 0;
   }
 `;
@@ -31,6 +31,10 @@ export const ContainerCarroseul = styled.div`
 
   @media (max-width: 500px) {
     width: 90%;
+  }
+
+  @media (max-width: 400px) {
+    margin-bottom: -2rem;
   }
 `;
 
@@ -50,6 +54,14 @@ export const ContainerBanner = styled.div`
   img:hover {
     transform: scale(1.05);
   }
+
+  @media (max-width: 400px) {
+    flex-direction: column;
+    align-items: center;
+    img {
+      width: 100%;
+    }
+  }
 `;
 
 export const ContainerSubBanner = styled.div`
@@ -63,6 +75,16 @@ export const ContainerSubBanner = styled.div`
   }
   img:hover {
     transform: scale(1.05);
+  }
+
+  @media (max-width: 400px) {
+    flex-direction: column;
+    align-items: center;
+    margin: 5px 0;
+    img {
+      margin: 5px 0;
+      width: 60%;
+    }
   }
 `;
 
@@ -78,5 +100,12 @@ export const BannerDoacao = styled.div`
   }
   img:hover {
     transform: scale(1.05);
+  }
+  @media (max-width: 400px) {
+    align-items: center;
+    img {
+      margin-top: -13px;
+      width: 100%;
+    }
   }
 `;
